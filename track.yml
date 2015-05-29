@@ -1,0 +1,761 @@
+---
+track:
+    title: Pre-College Intro to Web Design
+    uuid: 56571c2d-65fc-4144-a825-8cec84812c27
+    topics:
+    -   title: Course Outline for Teachers!
+        uuid: 8773db4c-973b-4abc-bee6-c02af19b6b79
+        units:
+        -   title: Course Outline
+            uuid: ade222ff-8012-4fd3-8e6e-92b5ac801f69
+            lessons:
+            -   title: Intro Web Course Outline
+                uuid: aee161f5-690a-488f-8cf7-f5b43e1c94f9
+                contents:
+                -   title: Hs Intro Web Course Outline
+                    source: https://github.com/learn-co-curriculum/hs-intro-web-course-outline
+                    uuid: 9e249c50-156e-4988-9e36-338a00c9d71d
+    -   title: Day 1
+        uuid: 6af86783-aa68-40f3-b385-e71ae9b1536a
+        units:
+        -   title: Environment Set Up
+            uuid: c4631c58-6334-4070-bf74-57dcf8cecb01
+            lessons:
+            -   title: 'Optional: Manual Setup for Mac Users'
+                uuid: 3664672a-f52c-4628-838d-9e6e8aee1c7a
+                contents:
+                -   title: Hs Web Design Environment Setup
+                    source: https://github.com/learn-co-curriculum/hs-web-design-environment-setup
+                    uuid: 6c12becb-2b01-4765-ad06-9c4acfc5d3f1
+            -   title: 'Optional: Mac Environmentalizer Setup'
+                uuid: c415c93a-aa2f-45aa-9a0e-f631e52db292
+                contents:
+                -   title: Environmentalizer
+                    source: https://github.com/learn-co-curriculum/environmentalizer
+                    uuid: 91c88e0c-4c56-432a-8250-4157a884f234
+        -   title: Command Line Interface
+            uuid: 63ed7bb6-216e-4971-8b23-0d10786d9b97
+            lessons:
+            -   title: Intro
+                uuid: c595c1ca-93a9-4731-82ee-9b6ebc97351d
+                contents:
+                -   title: Hs Command Line Intro
+                    source: https://github.com/learn-co-curriculum/hs-command-line-intro
+                    uuid: 4dda891b-7919-4560-a019-89cda104988a
+            -   title: Castle Code Along
+                uuid: 531d2ea2-3e32-4af3-a000-41778718909b
+                contents:
+                -   title: Command Line Castle Code Along
+                    source: https://github.com/learn-co-curriculum/command_line_castle_code_along
+                    uuid: fbc1872a-c502-45e3-843d-8914a24b4166
+            -   title: 'Resources: Fun With the Command Line'
+                uuid: a125da19-59fa-48b5-829a-4c9ddfadb868
+                contents:
+                -   title: Hs Cli Cultural Piece
+                    source: https://github.com/learn-co-curriculum/hs-cli-cultural-piece
+                    uuid: eafb0d3d-f140-437e-b96e-08efaa482411
+            -   title: 'Stretch Lab: Advanced CLI'
+                uuid: 0616fe0c-6082-4f22-92c6-7b9e819668fc
+                contents:
+                -   title: Hs Advanced Cli
+                    source: https://github.com/learn-co-curriculum/hs-advanced-cli
+                    uuid: c31d654a-42bd-4f0f-8d8e-abf18ae1d570
+        -   title: Git and Github
+            uuid: 69972a5e-03da-4325-8487-51b178a2f300
+            lessons:
+            -   title: Intro
+                uuid: 0840f701-e0c8-4bce-9d1f-c10adfa4df73
+                contents:
+                -   title: Hs Foundations Git Intro
+                    source: https://github.com/learn-co-curriculum/hs-foundations-git-intro
+                    uuid: ad545f01-69c8-496a-b4b3-05fe872362e7
+            -   title: 'Study Guide I: Git Fork and Clone'
+                uuid: 2c62af7a-4c62-4175-9f7e-936830d7ed12
+                contents:
+                -   title: Hs Git Code Along Catch Up
+                    source: https://github.com/learn-co-curriculum/hs-git-code-along-catch-up
+                    uuid: 47c0c47d-74f0-4f55-b398-49906d0040e2
+            -   title: 'Study Guide II: Git Add, Commit, Push'
+                uuid: fefaefd5-42b6-4c6d-a67f-d029e64e5e6d
+                contents:
+                -   title: Hs Foundations Git Studyguide
+                    source: https://github.com/learn-co-curriculum/hs-foundations-git-studyguide
+                    uuid: 828c7262-f21b-477c-8846-374373f30fff
+            -   title: Git Resources
+                uuid: 533f053c-b2c8-4e89-a39b-36196d3e6df8
+                contents:
+                -   title: Fe Git Resources
+                    source: https://github.com/learn-co-curriculum/fe-git-resources
+                    uuid: 5aebb8f4-1729-4a10-b5de-5bb488456032
+        -   title: Student Directory Project
+            uuid: 70c5fbb5-049a-4a64-9bab-5b0e8f7fe40d
+            lessons:
+            -   title: Student Directory Project
+                uuid: 7fc2647c-bf49-4956-9162-50b82eee58f9
+                contents:
+                -   title: Hs Intro Web Student Directory
+                    source: https://github.com/learn-co-curriculum/hs-intro-web-student-directory
+                    uuid: 63e27edb-8e7b-43fd-8529-eb145693a416
+        -   title: HTML Lab
+            uuid: fa1dfb28-e829-4c0d-abfc-117ef18a98c5
+            lessons:
+            -   title: 'Lab: HTML Playground'
+                uuid: d734f104-261a-47aa-ad87-d75a5edd9026
+                contents:
+                -   title: Html Playground
+                    source: https://github.com/learn-co-curriculum/html-playground
+                    uuid: 9a358225-5297-4904-b393-b69c8cb9414f
+        -   title: Quizzes
+            uuid: b84a74a6-e154-46ca-ba82-dbd4782ba9f9
+            lessons:
+            -   title: CLI
+                uuid: 076a72ef-26fd-45b1-9d04-ee0c8edace99
+                contents:
+                -   title: Quiz Cli
+                    source: https://github.com/learn-co-curriculum/quiz-cli
+                    uuid: 26ae707b-a086-430f-874c-3ee9967b7ece
+            -   title: Git
+                uuid: 1202b842-6e35-4802-8801-74a6ec9c23ea
+                contents:
+                -   title: Quiz Git
+                    source: https://github.com/learn-co-curriculum/quiz-git
+                    uuid: 5b943192-5e8f-4b49-a58f-2c5689cbdc69
+        -   title: Micro Feedback
+            uuid: 8d27a4c9-90d1-4e25-b919-3d5df69d3fdf
+            lessons:
+            -   title: Micro-Feedback
+                uuid: 608a6e7b-8082-4543-b521-482ae6b8b128
+                contents:
+                -   title: Hs Post Class Survey
+                    source: https://github.com/learn-co-curriculum/hs-post-class-survey
+                    uuid: 8d50ffc4-4939-4b8e-8aa9-09cb35227551
+    -   title: Day 2
+        uuid: 3a42fbff-36d2-4402-9ca2-bb1439c9a5e0
+        units:
+        -   title: ToDo
+            uuid: 3c599c1f-0c8a-414a-8cd2-e1234969472e
+            lessons:
+            -   title: 'ToDo: World Travel'
+                uuid: 0f8b4253-090a-4187-9f4b-662406699ff3
+                contents:
+                -   title: Hs Cli World Travel Todo
+                    source: https://github.com/learn-co-curriculum/hs-cli-world-travel-todo
+                    uuid: 7dafbfab-802f-4001-9b79-238798719359
+            -   title: 'ToDo: Make Pharrell Happy'
+                uuid: 5d8bdb49-9ca1-4b1d-b01e-e6f5da7b3c8a
+                contents:
+                -   title: Html Album Cover
+                    source: https://github.com/learn-co-curriculum/Html-Album-Cover
+                    uuid: 34179b3e-3c56-4d75-b2d1-e2064ef2d3e0
+        -   title: HTML Fundamentals
+            uuid: ebc20712-26f8-475a-bfc7-2681b6d35e67
+            lessons:
+            -   title: Intro
+                uuid: 02c13322-86a5-4c19-98b8-59ef2f5adc4c
+                contents:
+                -   title: Fe Html Intro
+                    source: https://github.com/learn-co-curriculum/fe-html-intro
+                    uuid: 5975b370-6237-4985-8a6d-0d13fca7aaea
+            -   title: 'Slides: Getting to Know HTML'
+                uuid: 3633687c-2878-4fc3-b52f-8b82453f204e
+                contents:
+                -   title: Fe Getting To Know Html
+                    source: https://github.com/learn-co-curriculum/FE-GETTING-TO-KNOW-HTML
+                    uuid: ff852bf0-d991-41ff-897c-845fefce5f05
+            -   title: HTML Resources
+                uuid: 462403ef-0e77-4483-8c38-66b9f3148f38
+                contents:
+                -   title: Fe Html Resources
+                    source: https://github.com/learn-co-curriculum/Fe-Html-Resources
+                    uuid: dc2db5a3-adb9-4faa-996d-e5e213a9f049
+            -   title: 'Lab: Welcome to Riyadh'
+                uuid: 3126f2ba-3864-414e-af28-b669b76574f8
+                contents:
+                -   title: Fe Riyadh Blog
+                    source: https://github.com/learn-co-curriculum/FE-RIYADH-BLOG
+                    uuid: 4777d044-0973-4298-adb2-e6f669631c0f
+            -   title: 'Lab: HTML Issue Bot 9000'
+                uuid: 89e28694-d33d-4f48-8fbe-e4939a7b88eb
+                contents:
+                -   title: Html Issue Bot 9000
+                    source: https://github.com/learn-co-curriculum/HTML-ISSUE-BOT-9000
+                    uuid: 9d06decc-8b00-4f83-af28-792cdddf3a73
+        -   title: CSS Fundamentals
+            uuid: be60c3de-71da-4b1b-997f-2017b28f0b49
+            lessons:
+            -   title: Intro
+                uuid: 6de53b1e-1ff1-4b2b-966a-cfd460382ba9
+                contents:
+                -   title: Fe Css Intro
+                    source: https://github.com/learn-co-curriculum/Fe-Css-Intro
+                    uuid: 34877c7d-9946-452b-adae-e6a168ffcd6b
+            -   title: 'Slides: CSS Fundamentals'
+                uuid: f4f94465-fd9e-46c7-87e8-0d05fc0c6f86
+                contents:
+                -   title: Fe Css Fundamentals
+                    source: https://github.com/learn-co-curriculum/Fe-Css-Fundamentals
+                    uuid: f7b4bb8c-1e23-40a3-9320-4219231770b6
+            -   title: Resources
+                uuid: 279389c7-0753-4dfa-90c2-efced95ab9e8
+                contents:
+                -   title: Fe Css Resources
+                    source: https://github.com/learn-co-curriculum/Fe-Css-Resources
+                    uuid: d5881b06-0da0-43fc-95a7-0ce357e9b1a7
+        -   title: Design Principles - Visual Hierarchy
+            uuid: 895afa40-dab2-4fa4-9df7-a598901baab9
+            lessons:
+            -   title: Visual Hierarchy
+                uuid: 7aadbcbd-a526-4ab1-a12c-a9a12de42b4a
+                contents:
+                -   title: Hs Design Principles Hierarchy
+                    source: https://github.com/learn-co-curriculum/hs-design-principles-hierarchy
+                    uuid: 31058a03-0a7d-41a9-97bd-03aeb2d611c4
+        -   title: How the Web Works
+            uuid: 6b2fe231-267c-42c7-9f30-4717316834ab
+            lessons:
+            -   title: Intro
+                uuid: 15f665bb-f0ef-4c93-81de-b6a1887cf059
+                contents:
+                -   title: Fe Web Intro
+                    source: https://github.com/learn-co-curriculum/FE-WEB-INTRO
+                    uuid: 4b47bfac-b5cd-48c2-bcd3-773254378ef2
+            -   title: How the Web Works
+                uuid: 0c205bb4-2017-407d-b535-5323c7669f12
+                contents:
+                -   title: Fe How The Web Works
+                    source: https://github.com/learn-co-curriculum/FE-HOW-THE-WEB-WORKS
+                    uuid: 762b7091-db6b-40d7-a0a7-4f068c0dd9a9
+            -   title: Resources
+                uuid: f1c78a66-9f5a-4eb0-8b94-74dd124eafd1
+                contents:
+                -   title: Fe Web Resources
+                    source: https://github.com/learn-co-curriculum/FE-WEB-RESOURCES
+                    uuid: 84fa52d3-ee12-4d45-be38-df2772c42c2d
+        -   title: Independent Study
+            uuid: 3c1717ee-3418-4407-a23b-766ac69ce15b
+            lessons:
+            -   title: Independent Study Guide
+                uuid: b56d74ca-9cc8-4153-b511-42dd354b73d3
+                contents:
+                -   title: Hs Independent Study Guide
+                    source: https://github.com/learn-co-curriculum/hs-independent-study-guide
+                    uuid: a2e97548-9c3c-41e6-89c5-e7b6d0f66724
+        -   title: Publishing with Github Pages
+            uuid: bcb8d9fc-0d22-4252-87c2-9e3db41ffb77
+            lessons:
+            -   title: Publish Your Site
+                uuid: 77c6a93b-8673-4628-b460-8b06cc93f271
+                contents:
+                -   title: Hs Gh Pages
+                    source: https://github.com/learn-co-curriculum/hs-gh-pages
+                    uuid: 2f75c0a0-2ab0-4096-b644-10c3440ba825
+        -   title: Micro Feedback
+            uuid: e5591e51-4a9d-42b8-81aa-3dc1dc333a8f
+            lessons:
+            -   title: Micro Feedback
+                uuid: 294459c6-6d0b-4fec-8ce6-a7689630e189
+                contents:
+                -   title: Hs Post Class Survey
+                    source: https://github.com/learn-co-curriculum/hs-post-class-survey
+                    uuid: a346d514-1501-4a78-bcb7-8199a5a451f8
+    -   title: Day 3
+        uuid: 10744449-c37a-467e-8663-536109e132f8
+        units:
+        -   title: ToDo
+            uuid: 9fe81b65-4efa-45b9-9dff-f1719f2cd338
+            lessons:
+            -   title: 'ToDo: CSS Kitten Wheelbarrow'
+                uuid: 6ea90d09-d138-4fe2-a937-c9b9f6340452
+                contents:
+                -   title: Css Kitten Wheelbarrow
+                    source: https://github.com/learn-co-curriculum/css-kitten-wheelbarrow
+                    uuid: bf91369c-ad63-4e55-b43d-a4c64914f0dd
+            -   title: 'ToDo: Dev Tools Super Powers'
+                uuid: 0c0ceab1-0866-4777-bc01-cfb3b2f57eb3
+                contents:
+                -   title: Dev Tools Super Power
+                    source: https://github.com/learn-co-curriculum/Dev-Tools-Super-Power
+                    uuid: 2711f744-0637-44c7-bee1-b7e845253418
+        -   title: HTML5
+            uuid: 943a6fb9-f3a6-4738-9440-239ac51b3921
+            lessons:
+            -   title: Intro
+                uuid: 949affb6-b226-4bce-b4ee-c1f7c8b2375c
+                contents:
+                -   title: Fe Html5 Intro
+                    source: https://github.com/learn-co-curriculum/Fe-Html5-Intro
+                    uuid: 16536ff3-9b97-45c2-87eb-d9099dbf9720
+            -   title: 'Slides: HTML5 Media and Semantic Elements'
+                uuid: a537fa30-6dd1-4969-ba09-12c427551f51
+                contents:
+                -   title: Fe Html5 Media Input Semantic Ele
+                    source: https://github.com/learn-co-curriculum/Fe-Html5-Media-Input-Semantic-Ele
+                    uuid: 97408888-b3a4-4d0a-bd31-c46b723894b6
+            -   title: Resources
+                uuid: cbd75d42-8517-4479-993c-f890739a9202
+                contents:
+                -   title: Fe Html5 Resources
+                    source: https://github.com/learn-co-curriculum/Fe-Html5-Resources
+                    uuid: c60c89f4-ba01-4f26-9bc4-bc8ba9152efe
+        -   title: CSS Layout
+            uuid: 1c6c2d94-c7b0-4195-82c7-5c37b8248a4b
+            lessons:
+            -   title: Intro
+                uuid: fc57e09d-4e68-4c8a-9d4b-2575141a05b5
+                contents:
+                -   title: Fe Css Layout Intro
+                    source: https://github.com/learn-co-curriculum/Fe-Css-Layout-Intro
+                    uuid: 775d50fd-e92f-40a7-8d70-5c8b336a4b6b
+            -   title: 'Video: CSS Layout'
+                uuid: 482bf5d3-2ffa-4218-9950-709a463cd952
+                contents:
+                -   title: Fe Css Layout
+                    source: https://github.com/learn-co-curriculum/Fe-Css-Layout
+                    uuid: 9e7db941-6267-435c-a79f-a8877679655f
+            -   title: Resources
+                uuid: c9eef59b-5b62-4aed-9314-562ab3adb24d
+                contents:
+                -   title: Fe Css Layout Resources
+                    source: https://github.com/learn-co-curriculum/Fe-Css-Layout-Resources
+                    uuid: 4fbaf164-7e5e-4976-bc81-55011fcdc1b5
+            -   title: 'Lab: Empire State Challenge'
+                uuid: dc797521-18d2-4fbb-865e-90709b45de61
+                contents:
+                -   title: Hs Empire State Css Challenge
+                    source: https://github.com/learn-co-curriculum/Hs-Empire-State-Css-Challenge
+                    uuid: ea990fa2-92cc-4d1a-8e8c-3b73dc7e0948
+            -   title: 'Lab: Zetsy'
+                uuid: 8288e5c6-0877-48d1-8be4-56cd0517c787
+                contents:
+                -   title: Hs Zetsy
+                    source: https://github.com/learn-co-curriculum/hs-zetsy
+                    uuid: e61d1061-bd0f-46b8-bc7e-577d00392777
+            -   title: 'Lab: ZHW Shoes'
+                uuid: 21302096-b3bd-4836-87ed-4bf3630dded9
+                contents:
+                -   title: Hs Zhw Shoes Layout
+                    source: https://github.com/learn-co-curriculum/hs-zhw-shoes-layout
+                    uuid: 902d15a1-40a7-44b4-8d83-467734440626
+            -   title: Quiz - CSS Layout
+                uuid: 389e86d0-8602-4f1c-8d3b-a5f56b54c74f
+                contents:
+                -   title: Quiz Css Layout
+                    source: https://github.com/learn-co-curriculum/quiz-css-layout
+                    uuid: 2a370492-e678-4f53-bfaa-4c229ffd9959
+        -   title: Box Styles
+            uuid: ffa975eb-58eb-4ed7-93c2-8b7830ba9d6e
+            lessons:
+            -   title: Intro
+                uuid: 93910799-739b-4a49-beeb-5e7a139d43d5
+                contents:
+                -   title: Fe Box Styles Intro
+                    source: https://github.com/learn-co-curriculum/Fe-Box-Styles-Intro
+                    uuid: b9031b58-37f3-456b-b62c-d081c4d12ecc
+            -   title: 'Slides: Box Styles Fundamentals'
+                uuid: 9a40bf69-6b50-4946-81c1-887da72a66c1
+                contents:
+                -   title: Fe Box Styles
+                    source: https://github.com/learn-co-curriculum/Fe-Box-Styles
+                    uuid: 1daca968-6e32-4095-976f-71e3fd67d2f8
+            -   title: Resources
+                uuid: 447bf596-e54c-4d48-bcd0-ce978bbf3be9
+                contents:
+                -   title: Fe Box Styles Resources
+                    source: https://github.com/learn-co-curriculum/Fe-Box-Styles-Resources
+                    uuid: 93606885-5a63-4fa0-afcc-26315aed3998
+        -   title: Micro Feedback
+            uuid: 032ea783-92e1-46e0-a5d1-784cf62bf03f
+            lessons:
+            -   title: Micro Feedback
+                uuid: 46f4e2ef-a984-4520-bb65-5246d662ecaf
+                contents:
+                -   title: Hs Post Class Survey
+                    source: https://github.com/learn-co-curriculum/hs-post-class-survey
+                    uuid: 0b21af66-4462-4b98-a949-bd65db318052
+    -   title: Day 4
+        uuid: c4d481ea-96cd-4bca-9f60-9c49428c531b
+        units:
+        -   title: ToDo
+            uuid: c7415032-0907-4901-8339-a468ca519701
+            lessons:
+            -   title: 'ToDo: Make a Rainbow for Roy G. Biv'
+                uuid: bd96bb71-329b-42de-ad93-442d95f12e23
+                contents:
+                -   title: My Little Rainbow
+                    source: https://github.com/learn-co-curriculum/My-Little-Rainbow
+                    uuid: 8250a2bd-0e7e-45df-bdb4-85bf3274672d
+        -   title: CSS
+            uuid: bea8bded-4ace-420a-afa3-459cc53eb167
+            lessons:
+            -   title: 'Lab: Graffiti Cleaning Service'
+                uuid: cf3c0c4b-08e5-4378-99a0-b136b58b9002
+                contents:
+                -   title: Css Graffiti Override
+                    source: https://github.com/learn-co-curriculum/Css-Graffiti-Override
+                    uuid: b17bd7b6-4884-4a95-9bad-6783da4dd5b2
+            -   title: 'Lab: CSS Issue Bot 9000'
+                uuid: d9812e0e-e24b-48a0-9ba6-7a31a6f2307c
+                contents:
+                -   title: Css Issue Bot 9000
+                    source: https://github.com/learn-co-curriculum/css-issue-bot-9000
+                    uuid: d7dc7bb4-1244-49cf-bd70-55717bbf5dd8
+        -   title: Design Principles - Typography
+            uuid: dbd597ee-d2d4-47d4-88f9-db9622b7ef1e
+            lessons:
+            -   title: Typography Resources
+                uuid: 43e01b9b-ae43-4cef-89b7-c48d9c98547d
+                contents:
+                -   title: Hs Design Principles Typography
+                    source: https://github.com/learn-co-curriculum/hs-design-principles-typography
+                    uuid: af7e4db5-04df-41e8-a428-c41c75ad1a30
+        -   title: HTML5
+            uuid: ec7985fd-4c3a-4c88-9dba-51f2ea0ce936
+            lessons:
+            -   title: Intro
+                uuid: aa551042-a660-47d8-8030-7dd67e0deace
+                contents:
+                -   title: Fe Html5 Intro
+                    source: https://github.com/learn-co-curriculum/Fe-Html5-Intro
+                    uuid: 16536ff3-9b97-45c2-87eb-d9099dbf9720
+            -   title: 'Slides: HTML5 Media and Semantic Elements'
+                uuid: 07fb5c57-c1bd-4c99-a4f2-84dd01468528
+                contents:
+                -   title: Fe Html5 Media Input Semantic Ele
+                    source: https://github.com/learn-co-curriculum/Fe-Html5-Media-Input-Semantic-Ele
+                    uuid: 97408888-b3a4-4d0a-bd31-c46b723894b6
+            -   title: Resources
+                uuid: 84c653a9-e2cd-4945-a271-5916f0a6cee3
+                contents:
+                -   title: Fe Html5 Resources
+                    source: https://github.com/learn-co-curriculum/Fe-Html5-Resources
+                    uuid: c60c89f4-ba01-4f26-9bc4-bc8ba9152efe
+        -   title: Bootstrap
+            uuid: be7ef418-d24b-4b2d-a090-d114f0eac7c9
+            lessons:
+            -   title: Intro
+                uuid: 32e33f2a-5306-4c5a-9f60-f831b2a8154f
+                contents:
+                -   title: Hs Bootstrap Intro
+                    source: https://github.com/learn-co-curriculum/Hs-Bootstrap-Intro
+                    uuid: 6519a6b2-b33e-4ca1-becc-e32ad74c990b
+            -   title: Bootstrap Walkthrough
+                uuid: 120e14e0-7b93-443d-895d-01112ca031a2
+                contents:
+                -   title: Hs Bootstrap Walkthrough
+                    source: https://github.com/learn-co-curriculum/Hs-Bootstrap-Walkthrough
+                    uuid: 1322baee-bcb5-4447-a3ba-1ed28852ee1d
+            -   title: 'Lab: bootstRAPPERS'
+                uuid: 5d975cfe-b66c-4798-9b3c-ea8a6caccdee
+                contents:
+                -   title: Fe Bootst Rappers
+                    source: https://github.com/learn-co-curriculum/fe-bootstRAPPERS
+                    uuid: 1dd64ea4-e309-4b9a-9b2b-5f6791b03d44
+        -   title: Grid System
+            uuid: 8807c3cf-841d-4c4b-9e00-bbd362e56978
+            lessons:
+            -   title: Grid System Resources
+                uuid: 382c62e0-daeb-4228-9517-2bcd4cb392bf
+                contents:
+                -   title: Hs Design Principles Grid System
+                    source: https://github.com/learn-co-curriculum/hs-design-principles-grid-system
+                    uuid: c56c1b26-de5c-4275-afb3-7bfd9e848780
+        -   title: Responsive Design
+            uuid: 7c8edb78-436e-4ca2-9f0a-54740ce04149
+            lessons:
+            -   title: Intro
+                uuid: 83a978e4-088f-4cfb-93b8-6691a6a341a6
+                contents:
+                -   title: Fe Responsive Layout Intro
+                    source: https://github.com/learn-co-curriculum/Fe-Responsive-Layout-Intro
+                    uuid: 5634c6df-addb-4062-bb23-24dafa266256
+            -   title: 'Slides: Responsive Layout'
+                uuid: 7ad71367-dedc-4bf3-a741-834863a78f7c
+                contents:
+                -   title: Fe Responsive Layout
+                    source: https://github.com/learn-co-curriculum/Fe-Responsive-Layout
+                    uuid: 484a0944-6660-44cb-9ffb-d3ae9c430a12
+            -   title: Resources
+                uuid: 8113d362-1832-450a-bc11-28d43d0e2b37
+                contents:
+                -   title: Fe Responsive Layout Resources
+                    source: https://github.com/learn-co-curriculum/Fe-Responsive-Layout-Resources
+                    uuid: 28891aad-d89c-424f-b5d0-8dbb5e12a74f
+            -   title: 'Lab: Save the Animals!'
+                uuid: 9a064539-cd2a-4e43-bb35-fd1d809d6446
+                contents:
+                -   title: Animal Save
+                    source: https://github.com/learn-co-curriculum/Animal-Save
+                    uuid: 6f55654a-3835-4939-a2fd-90ca0837c3b6
+            -   title: Response Layout Quiz
+                uuid: 31172096-2aeb-40d8-8209-a95d2e8c5b32
+                contents:
+                -   title: Fe Quiz 05
+                    source: https://github.com/learn-co-curriculum/Fe-Quiz-05
+                    uuid: 0ae83a1d-7123-4761-9a31-d855b3dfec2d
+        -   title: Sprite Rollovers
+            uuid: 3ada350f-f691-4d80-9e08-383bab25d273
+            lessons:
+            -   title: Intro
+                uuid: b3bd5ad3-fbee-487e-bbe7-df98961b75c8
+                contents:
+                -   title: Fe Sprite Rollovers Intro
+                    source: https://github.com/learn-co-curriculum/Fe-Sprite-Rollovers-Intro
+                    uuid: a78b4f87-b113-4c35-a649-023b83a7f3ac
+            -   title: 'Slides: Sprite Rollovers'
+                uuid: c913adad-0c94-4e6b-a2e3-c85445e66b59
+                contents:
+                -   title: Fe Sprite Rollovers
+                    source: https://github.com/learn-co-curriculum/Fe-Sprite-Rollovers
+                    uuid: 8d9a4405-4e86-4cbe-a879-b92559fc754d
+            -   title: Resources
+                uuid: fa3af545-01eb-4909-ab37-232370fc06cc
+                contents:
+                -   title: Fe Sprite Rollovers Resources
+                    source: https://github.com/learn-co-curriculum/Fe-Sprite-Rollovers-Resources
+                    uuid: fe53461f-a8e9-4f79-a8ac-bd6dc43c9699
+            -   title: 'Lab: Concentration Game'
+                uuid: 8fb95447-1db1-41dc-86c6-361b2481a825
+                contents:
+                -   title: Fe Concentration Game
+                    source: https://github.com/learn-co-curriculum/Fe-Concentration-Game
+                    uuid: 3c0a4a65-84d6-4a64-b0a1-5a16758285e2
+    -   title: Day 5
+        uuid: 5e1aa2a3-1306-4f25-8580-27131f281e0d
+        units:
+        -   title: ToDo
+            uuid: 23ec9f50-e23a-4c33-b191-2feb172401bb
+            lessons:
+            -   title: Online Diner Game
+                uuid: fd5e717e-756b-4aa5-a98b-9b6b458b219b
+                contents:
+                -   title: Hs Css Online Diner
+                    source: https://github.com/learn-co-curriculum/hs-css-online-diner
+                    uuid: 5d974dd9-1a0b-4e87-a783-47f8814356a2
+        -   title: Group Project
+            uuid: b0e02fe0-4074-41be-91be-61a17851ef93
+            lessons:
+            -   title: Group Project
+                uuid: af55bf03-c62c-4578-8489-4b7fcaecba0a
+                contents:
+                -   title: Hs Html Css Group Project
+                    source: https://github.com/learn-co-curriculum/Hs-Html-Css-Group-Project
+                    uuid: 228c07ef-d19d-4ad8-97c5-8995fc317e28
+            -   title: Storyboarding
+                uuid: 19c9aaf8-a31f-4ef6-b613-f9a64e8123b2
+                contents:
+                -   title: Hs Storyboarding
+                    source: https://github.com/learn-co-curriculum/hs-storyboarding
+                    uuid: 30d4e581-a989-4717-8f3a-fe4d2390aa73
+            -   title: Wireframing
+                uuid: 249bf1ce-bc36-4a05-b9ff-34590334d4d0
+                contents:
+                -   title: Hs Wireframing
+                    source: https://github.com/learn-co-curriculum/hs-wireframing
+                    uuid: b1269ee8-9887-4e7b-b8be-7e8a74c556c4
+            -   title: Site Planning Resources
+                uuid: a30ed2d2-ea77-4882-b894-e33d58f4468c
+                contents:
+                -   title: Fe Site Planning Resources
+                    source: https://github.com/learn-co-curriculum/fe-site-planning-resources
+                    uuid: b4271568-12b2-4228-9939-dfbd614b96ac
+        -   title: Design Principles - User Experience
+            uuid: 1d51ebf3-5396-460e-b8f3-ec252f22ff9a
+            lessons:
+            -   title: User Experience Resources
+                uuid: 862f2011-3db3-4ab3-9d5c-4ec5dca84e17
+                contents:
+                -   title: Hs Design Principles User Experience
+                    source: https://github.com/learn-co-curriculum/hs-design-principles-user-experience
+                    uuid: e74bf80e-850a-4f08-9dad-7aeda8588bc2
+        -   title: Design Principles - White Space
+            uuid: 29a04f9c-9978-4ba3-809f-e3b7eae9a8bb
+            lessons:
+            -   title: White Space Resources
+                uuid: d96cbfb8-97c5-4727-bf70-f3fe1939643e
+                contents:
+                -   title: Hs Design Principles White Space
+                    source: https://github.com/learn-co-curriculum/hs-design-principles-white-space
+                    uuid: 1f226b07-b28a-4a2f-a18c-5fb2e2b63bba
+            -   title: 'Lecture: White Space'
+                uuid: f8935814-0226-4623-92a0-d364ffe9010c
+                contents:
+                -   title: Hs Intro Web Design Teachers Guide White Space
+                    source: https://github.com/learn-co-curriculum/hs-intro-web-design-teachers-guide-white-space
+                    uuid: b2c99c30-ac06-4a4d-a9c1-7a491333f51e
+    -   title: Day 6
+        uuid: 612929c5-2d7d-49bb-b2af-ab94b2b1c466
+        units:
+        -   title: ToDo
+            uuid: aa18c3db-d1e1-4a97-b0ca-9e08b946ebd9
+            lessons:
+            -   title: ZHW Shoes
+                uuid: 295029b7-cb87-4d1c-8694-bdf6521dffb9
+                contents:
+                -   title: Hs Zhw Shoes Layout
+                    source: https://github.com/learn-co-curriculum/Hs-Zhw-Shoes-Layout
+                    uuid: fcf9fb1d-0b33-45b9-822e-5bb48014c082
+        -   title: The DOM (Document Object Model)
+            uuid: 28c01042-c3fe-4652-ade9-6db544d8597e
+            lessons:
+            -   title: Intro
+                uuid: fba0a033-19ef-46cf-85e5-4dfac0baf8da
+                contents:
+                -   title: Fe Dom Intro
+                    source: https://github.com/learn-co-curriculum/Fe-Dom-Intro
+                    uuid: 1c687dd6-3142-4808-b645-e0a85d391312
+            -   title: Understanding the DOM
+                uuid: 07329aaf-8a67-45be-97d4-331825ce061a
+                contents:
+                -   title: Fe Dom
+                    source: https://github.com/learn-co-curriculum/Fe-Dom
+                    uuid: 253b1c3f-aaf6-4658-a9b7-14f4121e88c7
+            -   title: DOM Resources
+                uuid: 01d0bf03-c258-4481-aacc-4dedbaf691a9
+                contents:
+                -   title: Fe Dom Resources
+                    source: https://github.com/learn-co-curriculum/Fe-Dom-Resources
+                    uuid: 47771caf-b0ca-4a2d-8544-0b81725ef109
+        -   title: jQuery Fundamentals
+            uuid: dd840c66-601c-4251-945c-03ac267e6cf7
+            lessons:
+            -   title: Intro to jQuery
+                uuid: 6b8c14c1-aec2-47cb-9954-be0783496a2b
+                contents:
+                -   title: Fe Jquery Fundamentals Intro
+                    source: https://github.com/learn-co-curriculum/Fe-Jquery-Fundamentals-Intro
+                    uuid: b19c1f36-2528-4520-a29e-88094ae402ce
+            -   title: 'Video: jQuery Fundamentals'
+                uuid: ea5409a3-519d-43d0-8a4a-ac56e5d1983f
+                contents:
+                -   title: Fe Jquery Fundamentals
+                    source: https://github.com/learn-co-curriculum/Fe-Jquery-Fundamentals
+                    uuid: bffc4118-7ddd-486f-913e-c0e63a1113a3
+            -   title: 'Lab: jQuery Selectors'
+                uuid: 0b0d125c-4a3b-41a6-8e9f-42a24361fc5b
+                contents:
+                -   title: Fe Jquery Exploring Selectors
+                    source: https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Selectors
+                    uuid: ae8df297-871c-4c6c-98bc-ac0cfcfcad94
+            -   title: 'Lab: jQuery Methods'
+                uuid: 0707a5dd-c39a-40a4-9e11-70611b1123f1
+                contents:
+                -   title: Fe Jquery Exploring Methods
+                    source: https://github.com/learn-co-curriculum/Fe-Jquery-Exploring-Methods
+                    uuid: d26a4124-39c3-4306-af5e-da0d52603402
+            -   title: Resources
+                uuid: 6c211b0c-637a-42d2-8f37-44043f6cc13b
+                contents:
+                -   title: Fe Jquery Fundamentals Resources
+                    source: https://github.com/learn-co-curriculum/Fe-Jquery-Fundamentals-Resources
+                    uuid: aafb5f04-7c1f-4b8e-b9e2-098f63e9d492
+    -   title: Day 7
+        uuid: 9a5036f9-e654-4e4c-857c-f0d6eb50e4e7
+        units:
+        -   title: ToDo
+            uuid: 849cdce6-17dd-404a-82cb-484800614643
+            lessons:
+            -   title: 'To-Do: jQuery Card Flipper'
+                uuid: 62ec127f-6f44-4f5a-b8ec-0e98e612f658
+                contents:
+                -   title: Hs Intro To Web Development Jquery Card Flipper To Do
+                    source: https://github.com/learn-co-curriculum/hs-intro-to-web-development-jquery-card-flipper-to-do
+                    uuid: 6c7142ec-b8f1-451e-a859-856f93881464
+        -   title: JavaScript Fundamentals
+            uuid: 72c6d438-4e5f-428e-9154-d0e153665a57
+            lessons:
+            -   title: Intro
+                uuid: 96b091da-b347-48ec-848c-7af13bb3d3fa
+                contents:
+                -   title: Fe Js Fundamentals Intro
+                    source: https://github.com/learn-co-curriculum/Fe-Js-Fundamentals-Intro
+                    uuid: 5d841216-06dc-40e9-a750-84e2bb711299
+            -   title: 'Video: Variables, Operations and Conditionals'
+                uuid: 7872aca4-2366-4ca4-9bba-e828722da3ad
+                contents:
+                -   title: Fe Js Fundamentals
+                    source: https://github.com/learn-co-curriculum/Fe-Js-Fundamentals
+                    uuid: df45995b-a284-4b55-ac8a-72ed59cdfc29
+            -   title: Resources
+                uuid: 70874b12-d495-40d9-ac45-c3ebc17c2335
+                contents:
+                -   title: Fe Js Fundamentals Resources
+                    source: https://github.com/learn-co-curriculum/Fe-Js-Fundamentals-Resources
+                    uuid: a5ac3410-77fa-422b-a619-7863be3b1882
+            -   title: 'Lab: Donut App'
+                uuid: cf9e5e61-f05b-49b5-8fcb-dc6129ed35b7
+                contents:
+                -   title: Js Donut Lab
+                    source: https://github.com/learn-co-curriculum/Js-Donut-Lab
+                    uuid: 989a8648-2a53-42fe-9610-0a274b5d2a12
+            -   title: 'Lab: ATM'
+                uuid: 8c07b632-847d-4ff3-9931-a28a9939631e
+                contents:
+                -   title: Js Atm Function Based
+                    source: https://github.com/learn-co-curriculum/js-atm-function-based
+                    uuid: a779ef9f-acff-4195-a7cf-75cc366e0ff7
+            -   title: 'Lab: Simple Calculator'
+                uuid: b73294f2-9d86-44d2-93fa-ca30182e7c87
+                contents:
+                -   title: Fe Jquery Simple Calc
+                    source: https://github.com/learn-co-curriculum/fe-jquery-simple-calc
+                    uuid: 880c629a-da88-4af5-8e24-c05187938afa
+            -   title: 'Stretch Lab: Whac-a-Mole'
+                uuid: f84ebbcb-84e0-4894-86b6-1fc4f4367da5
+                contents:
+                -   title: Whac A Mole.Js
+                    source: https://github.com/learn-co-curriculum/whac-a-mole.js
+                    uuid: 7b77342e-06c7-4175-91b0-f8d9cd863145
+            -   title: 'Stretch Lab: Task List'
+                uuid: 2327de45-2ff7-447e-8084-62d1ad3bfa28
+                contents:
+                -   title: Task List
+                    source: https://github.com/learn-co-curriculum/task-list
+                    uuid: 86b6f83c-ffa7-46b9-86d2-8066e002fde6
+            -   title: 'Stretch Lab: Calculator'
+                uuid: f9c3b9f6-1a0d-4310-8e74-7854073e384c
+                contents:
+                -   title: J Query User Input Calculator
+                    source: https://github.com/learn-co-curriculum/jQuery-user-input-calculator
+                    uuid: 05b0394e-f660-4061-83ff-3f150f2a4a29
+    -   title: Day 8
+        uuid: 58b8dded-04e1-4856-a566-c5a880fd7492
+        units:
+        -   title: ToDo
+            uuid: 2325c62e-6330-4bf7-993f-2e15f39fe714
+            lessons:
+            -   title: What's on That Busted Tee?
+                uuid: ea5549ca-3362-4736-989c-bc30c7e6602f
+                contents:
+                -   title: Hs Whats On That Busted Tee
+                    source: https://github.com/learn-co-curriculum/hs-whats-on-that-busted-tee
+                    uuid: b074573e-d0c8-4442-8d18-c44eb2fa124b
+        -   title: Site Planning
+            uuid: d444ba19-2ce3-40e3-a42f-d50a0b93852d
+            lessons:
+            -   title: Intro
+                uuid: 645b6ade-695b-4ad4-9b61-3f05c8b61ea5
+                contents:
+                -   title: Fe Site Planning Intro
+                    source: https://github.com/learn-co-curriculum/fe-site-planning-intro
+                    uuid: 0fb3b075-7d59-44c7-97a4-9fd83ed59b89
+            -   title: Planning Your Website
+                uuid: bfe1d527-66a9-41c9-9856-e48c00c96889
+                contents:
+                -   title: Fe Planning Your Website
+                    source: https://github.com/learn-co-curriculum/fe-planning-your-website
+                    uuid: 2ef41d64-f7d1-4466-b40a-d959dbaacd92
+            -   title: Resources
+                uuid: e9982a79-bca1-4aa6-bd7a-acbfa56d9013
+                contents:
+                -   title: Fe Site Planning Resources
+                    source: https://github.com/learn-co-curriculum/fe-site-planning-resources
+                    uuid: b2b09835-fd36-450a-a7cb-4b34adb44573
+        -   title: Design Principles - Color Theory
+            uuid: c213ffc3-497c-46c9-ab93-3345d9127e5d
+            lessons:
+            -   title: Color Theory Resources
+                uuid: 9173811e-fb9b-44c1-8e20-729218feffac
+                contents:
+                -   title: Hs Design Principles Color Theory
+                    source: https://github.com/learn-co-curriculum/hs-design-principles-color-theory
+                    uuid: dc9469a8-db19-4066-a99d-3bad62a53c92
